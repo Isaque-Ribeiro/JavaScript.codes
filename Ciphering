@@ -50,6 +50,9 @@ function decipher(senha: string){
 }
 
 
+/*Trying to use functions*/
+
+
 var word;
 word = 'aonca9ern3ij281790000e2t!@#$%¨&*():><NVW%';
 word = cipher(word);
